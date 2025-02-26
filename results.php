@@ -16,6 +16,7 @@
   } else {
     echo "Nessuna password generata.";
   }
+  session_destroy(); // Distrugge la sessione
   ?>
 
 </body>
