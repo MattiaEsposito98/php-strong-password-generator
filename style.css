@@ -1,8 +1,8 @@
 form {
   display: flex;
   flex-direction: column;
-  width: 200px;
+  width: 420px;
   padding: 1rem;
-  margin: 1rem 1rem;
+  margin: 0 auto;
   gap: 0.5rem;
 }
