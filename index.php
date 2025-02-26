@@ -12,7 +12,7 @@
   <h1>Genera la password</h1>
   <form action="" method="get">
     <label for="lunghezza">Quanto deve essere lunga la password (minimo 5 e massimo 20)</label>
-    <input type="number" id="lunghezza" name="lunghezza" min="5" max="20">
+    <input type="number" id="lunghezza" name="lunghezza" min="5" max="20" required>
 
     <label for="">Seleziona i filtri</label>
     <div>
